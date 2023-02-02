@@ -1,13 +1,13 @@
 {
-   "checksum": "170c38147c3258ea2089f715cbfe91d1",
+   "checksum": "09a88da398c5831e5395ee25a397a78c",
    "roots": {
       "bookmark_bar": {
          "children": [ {
             "children": [ {
                "date_added": "13246264530759632",
                "date_last_used": "0",
-               "guid": "1fa41cb0-c23a-4a2b-b0ea-65498f416b78",
-               "id": "6",
+               "guid": "30d7fb81-bb72-4140-8c1c-4021292ac48d",
+               "id": "10",
                "name": "Lenovo Support",
                "show_icon": false,
                "source": "import_fre",
@@ -16,8 +16,8 @@
             }, {
                "date_added": "13246264530766370",
                "date_last_used": "0",
-               "guid": "ed7e6707-4d52-4290-a5b1-3b253deba3b8",
-               "id": "7",
+               "guid": "a11ea236-89f7-466d-a18b-348b46df6956",
+               "id": "11",
                "name": "Lenovo",
                "show_icon": false,
                "source": "import_fre",
@@ -26,9 +26,9 @@
             } ],
             "date_added": "13317416406440386",
             "date_last_used": "0",
-            "date_modified": "0",
-            "guid": "9b963638-1997-418d-8141-7cfe2f8273e1",
-            "id": "5",
+            "date_modified": "13319840834934952",
+            "guid": "eff4b19b-3c08-4ce7-9e48-1ad78a74ffde",
+            "id": "9",
             "name": "Lenovo",
             "source": "import_fre",
             "type": "folder"
@@ -65,5 +65,6 @@
          "type": "folder"
       }
    },
+   "sync_metadata": "Cj4KHgiIgQISCApIb4qEAQAAKg4QABgBIAAoBDAAOABAABIAIAEqGENMMWl5SGpmSHZYVE9ZTHBtTmxCWkE9PRKnAQgKEqIBChxZaUF5SkRUdWJYSGdXeEUzQjR6b0dvVS9IZms9EiQzMGQ3ZmI4MS1iYjcyLTQxNDAtOGMxYy00MDIxMjkyYWM0OGQYACAAKAAwxemOzP4vOKvrjsz+L0Cr647M/i9KHHB3UDFpMGllM1VXSklmWUllU0VCTWZkSW5GND1aHiIcN3U3VTB1R1g0dEtEb0trSUlXbndmb0VxWGFFPWUAAAAAEqcBCAsSogEKHHN5NlZKVEIyRk9DRStHbDVPT2l4N21iUUEzVT0SJGExMWVhMjM2LTg5ZjctNDY2ZC1hMThiLTM0OGI0NmRmNjk1NhgAIAAoADDF6Y7M/i84u+uOzP4vQLvrjsz+L0ocanVzazRueHNNU0gwNEFlS2ZvUWVOV2hWL000PVoeIhxtQk5Ib0R1c0hQZVNHR3J5Y0JNVDBzRWhiMlE9ZQAAAAASpwEICRKiAQoceXFzQ3NxdDhLelN4SjlGTTRCcXhGSkszb2x3PRIkZWZmNGIxOWItM2MwOC00Y2U3LTllNDgtMWFkNzhhNzRmZmRlGAAgACgAMMXpjsz+Lzjd6o7M/i9A3eqOzP4vShwwU0c1WW5iOVhDSC80ZUpKQUwxSktLRkJHa3M9Wh4iHHVZdEducHlGOHNRQ2FRQjBpRUk2QU1MVFE0VT1lAAAAABKJAQgBEoQBChx5eEovNmZ2a2VjcjdrcDVFUXpCNHRXTHBkYkU9EiQzNWVlY2NjMi1jOGM3LTU3MjItOGZhNC0zMGEwZDgxNWJmY2EYACAAKAAwoanLkLEwOL/Sh7/wL0C/0oe/8C9KHGFSQ1dMZ2hGOWI1SW5xS0lEdnVKL2p2UWtGYz1aAGUAAAAAEokBCAIShAEKHFljU1RvbnZFU1B3cUNzNEwyY3JWaHY2OEw5OD0SJDIyNmU5YWIwLTQxMWUtNTVhMS04MGNmLTJhYjk3OTRlNzZjMBgAIAAoADChqcuQsTA43tKHv/AvQN7Sh7/wL0ocb1BWa2h3QlJiVjY1S0NXUjIrSU9OSFdvT3U4PVoAZQAAAAASiQEIAxKEAQocbmpnRHU4OGVDcnZYcDg2cEQ3ZkhHY3FGcDg4PRIkYjc0MWVjYmQtNmQ0My01MTJlLWI4MjQtOWMzZTllZDY4MzhiGAAgACgAMKGpy5CxMDi804e/8C9AvNOHv/AvShx5ek5CMDFjbjU0QTdjUlUwdVQrL1BnbVR0VW89WgBlAAAAADAAOAA=",
    "version": 1
 }
